@@ -27,4 +27,3 @@ public class UserController {
         return new ModelAndView("/result");
     }
 }
-}
